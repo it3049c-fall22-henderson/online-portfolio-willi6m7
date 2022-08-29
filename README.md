@@ -1,6 +1,6 @@
 Portfolio Assignment
 ==========================================
-![Assignment Checks](https://github.com/IT3049C/1.student-portfolio/workflows/Assignment%20Checks/badge.svg)
+[![GitHub Classroom Workflow](https://s///github.com/it3049c-fall22-henderson/online-portfolio-willi6m7/actions/workflows/classroom.yml/badge.svg)](https://s///github.com/it3049c-fall22-henderson/online-portfolio-willi6m7/actions/workflows/classroom.yml)
 
 Instructions to this assignment can be found [here](https://it3049c.github.io/Material/Assignments/1.Online_Portfolio/).
 ## Checklist:
@@ -12,22 +12,22 @@ Instructions to this assignment can be found [here](https://it3049c.github.io/Ma
 ## Self Grading Guide
 <!--- put an x in each of the completed sections below .. e.g. [x] Task 1 --->
 
-- [ ] The WebPage has all the required sections. (10 Points - 2 points each)
+- [x] The WebPage has all the required sections. (10 Points - 2 points each)
   - Including styles and script files using relative paths.
   - familiarity with nesting HTML tags. i.e.: a <div> containing other elements.
   - presenting content using different HTML tags. i.e. `<ol>`, `<ul>`, `<p>`, `<img>`
   - assigning classes and IDs properly.
   - Styling the page using classes and IDs in the css file.
-- [ ] The Web page is hosted on GitHub Pages. (3 Points)
-- [ ] Proper usage of git and GitHub and making frequent commits (3 points).
-- [ ] Pull request is submitted. (3 points)
+- [x] The Web page is hosted on GitHub Pages. (3 Points)
+- [x] Proper usage of git and GitHub and making frequent commits (3 points).
+- [x] Pull request is submitted. (3 points)
 
 <!--- Update the following line with your grade --->
-I should get ( ) out of 20 on this assignment.
+I should get (16) out of 20 on this assignment.
 
 ## Self-Reflection:
-
+VS Code and I are not friends. It wouldn't consistently let me see my progress on formatting, so I wasn't able to use CSS that effectively. I have also underestimated how long it would take to generate Github Pages.
 
 ### How long it took me to finish this?
-
+Roughly two and a half hours. 
 -----------------------
